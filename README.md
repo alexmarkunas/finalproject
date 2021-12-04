@@ -1,4 +1,4 @@
-# The Bosses CMPINF0010 Final Project
+# The Bosses CMPINF 0010 Final Project
 
 ## Abstract
 
