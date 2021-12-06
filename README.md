@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Through the course of working on this project using the data from supermarkets, walkability scores, and food gardens, we were able to conclude that ---- is the best neighborhood in Pittsburgh.
+Through the course of working on this project using the data from supermarkets, walkability scores, and food gardens, we were able to conclude that Downtown Pittsburgh (Central Business District) is the best neighborhood in Pittsburgh.
 
 ### Data Set #1 - Supermarkets
 
